@@ -98,7 +98,7 @@ function drawScene(){
 }
 
 
-// 이건 지금 스킵 Chapter3에서 배움
+// 이건 지금 스킵 Chapter 3에서 배움
 initProgram();
 
 initBuffers();
